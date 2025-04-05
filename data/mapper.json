@@ -1,0 +1,82 @@
+{
+  "0": {
+    "class": "nightstand_237",
+    "total": 1
+  },
+  "1": {
+    "class": "dining_table_65",
+    "total": 1
+  },
+  "3": {
+    "class": "dining_table_71",
+    "total": 3
+  },
+  "4": {
+    "class": "dressing_table_103",
+    "total": 1
+  },
+  "5": {
+    "class": "dining_table_218",
+    "total": 1
+  },
+  "7": {
+    "class": "chair_322",
+    "total": 5
+  },
+  "8": {
+    "class": "chair_169",
+    "total": 2
+  },
+  "9": {
+    "class": "nightstand_430",
+    "total": 1
+  },
+  "10": {
+    "class": "desk_23",
+    "total": 1
+  },
+  "11": {
+    "class": "chair_193",
+    "total": 1
+  },
+  "12": {
+    "class": "king_size_bed_80",
+    "total": 1
+  },
+  "13": {
+    "class": "dining_table_234",
+    "total": 1
+  },
+  "15": {
+    "class": "chair_308",
+    "total": 1
+  },
+  "16": {
+    "class": "chair_22",
+    "total": 1
+  },
+  "17": {
+    "class": "nightstand_36",
+    "total": 1
+  },
+  "19": {
+    "class": "dining_table_64",
+    "total": 2
+  },
+  "20": {
+    "class": "chair_94",
+    "total": 4
+  },
+  "21": {
+    "class": "armchair_39",
+    "total": 2
+  },
+  "22": {
+    "class": "chair_43",
+    "total": 5
+  },
+  "23": {
+    "class": "king_size_bed_221",
+    "total": 4
+  }
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-height, initial-scale=1.0">
+    <title>User Preference Study</title>
+    <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body>
+    <div>
+        <h1 class="centered">Trans3D</h1>
+        <div style="display:flex; justify-content: space-around">
+
+            <div>
+                <div style="color:#0000CD; font-size: 1.6rem;">
+                    Texture Transfer
+                    <span id="page-number"></span>
+                </div>
+                <div>
+                    <p> Task: Transfer the reference texture to the target geometry</p>
+                    <p>i) The texture style, pattern, and details of the migrated texture are consistent with the reference texture, such as the color of the wood and the shape of the wood grain;</p>
+                    <p>ii) The best visual result, such as clear texture, reasonable distribution, no obvious noise or artifacts, etc.</p>
+                </div>
+
+            </div>
+            <div id="refContainer" style="display:flex; justify-content: space-around;">
+                <div style="text-align: center">
+                    <p>Reference Texture</p>
+                    <img id="refImg" class="ref-image">
+                </div>
+
+                <div style="text-align: center">
+                    <p>Target Geometry</p>
+                    <img id="tarImg" class="ref-image">
+                </div>
+            </div>
+        </div>
+
+
+        <div>
+            <div>
+                <div class="vc-container" id="surveyContainer"></div>
+                <div class="button-container" style="justify-content: center">
+                    <p><button id="prevButton" class="button">Last</button></p>
+                    <p><button id="nextButton" class="button">Next</button></p>
+                    <p><button id="submitButton" class="button">Submit</button></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+
+</html>

@@ -1,0 +1,803 @@
+{
+  "94a65861280a515409e317d47ff43510": {
+    "path": "data/nightstand_237/ref.png"
+  },
+  "f4ca19ab0ed412fea926ae3908380e35": {
+    "path": "data/nightstand_237/0/tar.png"
+  },
+  "c24a5628dafa90b4d2ad752a080da9fa": {
+    "path": "data/nightstand_237/0/ours.gif",
+    "label": "ours"
+  },
+  "a38640a1874b8c9cdf155174f5c6c4f3": {
+    "path": "data/nightstand_237/0/tex.gif",
+    "label": "tex"
+  },
+  "f9694de4e20e3be14bb29b8bdf20357a": {
+    "path": "data/nightstand_237/0/painter.gif",
+    "label": "painter"
+  },
+  "4f0a1842c2c84ae1eb86f9770d3f6600": {
+    "path": "data/nightstand_237/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "2ef8fe633e5588476b9b371c54c148c1": {
+    "path": "data/dining_table_65/ref.png"
+  },
+  "fea8404e0a42cb658fbdcffc93748e8c": {
+    "path": "data/dining_table_65/0/tar.png"
+  },
+  "925128a477cea6c2eaeaf9c895f048ba": {
+    "path": "data/dining_table_65/0/ours.gif",
+    "label": "ours"
+  },
+  "5aaa5685ec29af8460293f42ffd6f322": {
+    "path": "data/dining_table_65/0/tex.gif",
+    "label": "tex"
+  },
+  "c36c305f77af217b745f7bdd5e065516": {
+    "path": "data/dining_table_65/0/painter.gif",
+    "label": "painter"
+  },
+  "bd9bf884182166a6138cedfd00dbf726": {
+    "path": "data/dining_table_65/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "532c5a06695576ba7c426243c7dd8a1e": {
+    "path": "data/dining_table_71/ref.png"
+  },
+  "1e9615f5e33f61540b114e0a3905c8d0": {
+    "path": "data/dining_table_71/0/tar.png"
+  },
+  "1feb0f8a763bdb8ef956a8c1928a2f4c": {
+    "path": "data/dining_table_71/0/ours.gif",
+    "label": "ours"
+  },
+  "6af8751ea265a0d8776cdccafa472dc5": {
+    "path": "data/dining_table_71/0/tex.gif",
+    "label": "tex"
+  },
+  "a93a13539b212e37e77b5ba0991de644": {
+    "path": "data/dining_table_71/0/painter.gif",
+    "label": "painter"
+  },
+  "c26e65594ee84d6b51b83a7f18e4bccc": {
+    "path": "data/dining_table_71/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "155ae95bda01127d540b128e51c8ec8a": {
+    "path": "data/dining_table_71/1/tar.png"
+  },
+  "5e80a5688bf8200dc9d75868ad329b7c": {
+    "path": "data/dining_table_71/1/ours.gif",
+    "label": "ours"
+  },
+  "3a40829ecec031bf2e67e389cd332959": {
+    "path": "data/dining_table_71/1/tex.gif",
+    "label": "tex"
+  },
+  "6220dfb8f467454d84543f079c097e02": {
+    "path": "data/dining_table_71/1/painter.gif",
+    "label": "painter"
+  },
+  "291a38abb8c7eff5b01a65a777f40ac1": {
+    "path": "data/dining_table_71/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "ca93d854a65caa38121f7cb778c2b58f": {
+    "path": "data/dining_table_71/2/tar.png"
+  },
+  "7879dd8d8efccb2e512840ea4149ca86": {
+    "path": "data/dining_table_71/2/ours.gif",
+    "label": "ours"
+  },
+  "017fb2d22f1f7b6504a50cb9dde9a0ea": {
+    "path": "data/dining_table_71/2/tex.gif",
+    "label": "tex"
+  },
+  "dd5c24aa9a501c79db750b96b3464404": {
+    "path": "data/dining_table_71/2/painter.gif",
+    "label": "painter"
+  },
+  "7ea71dd5ea6796807f0cdbe4c28312f6": {
+    "path": "data/dining_table_71/2/paint3d.gif",
+    "label": "paint3d"
+  },
+  "5052e4f7b66e6b4d3f2745555b5e0562": {
+    "path": "data/dressing_table_103/ref.png"
+  },
+  "d2c76e2acc3080632ce0e14edcb1a53d": {
+    "path": "data/dressing_table_103/0/tar.png"
+  },
+  "4eec3fb6475f11416248e894525255bc": {
+    "path": "data/dressing_table_103/0/ours.gif",
+    "label": "ours"
+  },
+  "7647f91cded28e4ae57c68db3e395125": {
+    "path": "data/dressing_table_103/0/tex.gif",
+    "label": "tex"
+  },
+  "3ae0dd5fee5ae95dd93783de3a791149": {
+    "path": "data/dressing_table_103/0/painter.gif",
+    "label": "painter"
+  },
+  "8629120ba854fd1699a08df61571d941": {
+    "path": "data/dressing_table_103/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "931ca136af3a136ceefb0ea0abd477bd": {
+    "path": "data/dining_table_218/ref.png"
+  },
+  "73cf93fbf1b8360288fe65561964946f": {
+    "path": "data/dining_table_218/0/tar.png"
+  },
+  "bc14b4e6b0e28aa15c7ef63643c60981": {
+    "path": "data/dining_table_218/0/ours.gif",
+    "label": "ours"
+  },
+  "e793f9da53b4d427fb44a1ee237893b1": {
+    "path": "data/dining_table_218/0/tex.gif",
+    "label": "tex"
+  },
+  "831bbb1d532781a170c7fcca55c081e9": {
+    "path": "data/dining_table_218/0/painter.gif",
+    "label": "painter"
+  },
+  "181fb4eb4d14a59bcd01895f040823e0": {
+    "path": "data/dining_table_218/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "54128fde4df9f73e72a592d42784bbee": {
+    "path": "data/chair_322/ref.png"
+  },
+  "d923e14adc44c5b51a55d87e8a13b5ae": {
+    "path": "data/chair_322/0/tar.png"
+  },
+  "12f70ef33c445bc6e5ba1d4d1d23035c": {
+    "path": "data/chair_322/0/ours.gif",
+    "label": "ours"
+  },
+  "1eff99973f493871d750a71c50bfb5d9": {
+    "path": "data/chair_322/0/tex.gif",
+    "label": "tex"
+  },
+  "888ac1c2bed8161a2ce0936e6cfa34a5": {
+    "path": "data/chair_322/0/painter.gif",
+    "label": "painter"
+  },
+  "c42be30fb80c7fe42e24ccf0fa44862b": {
+    "path": "data/chair_322/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "c20c2b221d1437be66b76460bbc509e7": {
+    "path": "data/chair_322/1/tar.png"
+  },
+  "e0200e2327057cff699ac2d668117b41": {
+    "path": "data/chair_322/1/ours.gif",
+    "label": "ours"
+  },
+  "cfb44095767ff5f69b341f7b35c7579e": {
+    "path": "data/chair_322/1/tex.gif",
+    "label": "tex"
+  },
+  "11e022805f997a09b3ed07ebc0b2fd6a": {
+    "path": "data/chair_322/1/painter.gif",
+    "label": "painter"
+  },
+  "cf133c6f084d86b0fdda865d0835ec77": {
+    "path": "data/chair_322/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "6911a5a5ac427b53f90222d5d71a2a8c": {
+    "path": "data/chair_322/2/tar.png"
+  },
+  "335f2e535bc24f0a0cfe71b948716c59": {
+    "path": "data/chair_322/2/ours.gif",
+    "label": "ours"
+  },
+  "8267e657a76b302e3fba851cfdbc0b55": {
+    "path": "data/chair_322/2/tex.gif",
+    "label": "tex"
+  },
+  "d4f1f0ca089de87af1a31d06ca968db9": {
+    "path": "data/chair_322/2/painter.gif",
+    "label": "painter"
+  },
+  "b5c31103479bec7b7d7476ef975e37cd": {
+    "path": "data/chair_322/2/paint3d.gif",
+    "label": "paint3d"
+  },
+  "c7b3d9894f30e92c5eadd27997332d68": {
+    "path": "data/chair_322/3/tar.png"
+  },
+  "a8fb98fc9f98c1e129f49cf9804cd946": {
+    "path": "data/chair_322/3/ours.gif",
+    "label": "ours"
+  },
+  "eb4eca2c96550995d3b58daad2e7fc4c": {
+    "path": "data/chair_322/3/tex.gif",
+    "label": "tex"
+  },
+  "e7f99f936b6d1ee2e57f11c414ca31ca": {
+    "path": "data/chair_322/3/painter.gif",
+    "label": "painter"
+  },
+  "2345e19db9e84cb3dc3e08c2c45d977a": {
+    "path": "data/chair_322/3/paint3d.gif",
+    "label": "paint3d"
+  },
+  "610bdffdd56df6a0f0bba220c0338963": {
+    "path": "data/chair_322/4/tar.png"
+  },
+  "cab26b9f19528c4119d9ee0e8a93bc4c": {
+    "path": "data/chair_322/4/ours.gif",
+    "label": "ours"
+  },
+  "027e69733ebc93363182ffcf1658889d": {
+    "path": "data/chair_322/4/tex.gif",
+    "label": "tex"
+  },
+  "817ebb724b44aca76672b4735f97f2de": {
+    "path": "data/chair_322/4/painter.gif",
+    "label": "painter"
+  },
+  "446fceea9d4105b63bf8023751fd397b": {
+    "path": "data/chair_322/4/paint3d.gif",
+    "label": "paint3d"
+  },
+  "ee9bbb90bc0fabb9372a1b1a4dab3f1d": {
+    "path": "data/chair_169/ref.png"
+  },
+  "ade07556393c7fbb40ffa71db1d8c1ba": {
+    "path": "data/chair_169/0/tar.png"
+  },
+  "a406b6075979d54f563cb21fb4f80a22": {
+    "path": "data/chair_169/0/ours.gif",
+    "label": "ours"
+  },
+  "d1d9c8c63817bd4964e7799f70e9cc3a": {
+    "path": "data/chair_169/0/tex.gif",
+    "label": "tex"
+  },
+  "6059b1d7e14af118027840ad9d655f51": {
+    "path": "data/chair_169/0/painter.gif",
+    "label": "painter"
+  },
+  "aeb032c8fc9e2144f7f575abc437032e": {
+    "path": "data/chair_169/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "d01a2a5a1d1d981a60add2443819fa97": {
+    "path": "data/chair_169/1/tar.png"
+  },
+  "bb0ce5fcb24fb076e8a149d971d554e0": {
+    "path": "data/chair_169/1/ours.gif",
+    "label": "ours"
+  },
+  "77efc36898bb0056300e0a7912fea4d1": {
+    "path": "data/chair_169/1/tex.gif",
+    "label": "tex"
+  },
+  "5e05e6ed3e1048fa5049a57ed34b2c48": {
+    "path": "data/chair_169/1/painter.gif",
+    "label": "painter"
+  },
+  "c92f1cd3b35212ea3bc30530605fbd06": {
+    "path": "data/chair_169/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "83513ff008f337fc06d0ddddf1595e4b": {
+    "path": "data/nightstand_430/ref.png"
+  },
+  "98f714bf2833f55a5dcfe39682bffd11": {
+    "path": "data/nightstand_430/0/tar.png"
+  },
+  "baa9e3876d790a3b843d69ecf7b2b437": {
+    "path": "data/nightstand_430/0/ours.gif",
+    "label": "ours"
+  },
+  "aaea5566275f8bbacbf7c4ea640aac90": {
+    "path": "data/nightstand_430/0/tex.gif",
+    "label": "tex"
+  },
+  "cc0bf3fe2d81f3f94989c8994943b82f": {
+    "path": "data/nightstand_430/0/painter.gif",
+    "label": "painter"
+  },
+  "8da8ba422b44a3ea525c78df139606a6": {
+    "path": "data/nightstand_430/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "cc023295fd4202a58badc2b97eed3e54": {
+    "path": "data/desk_23/ref.png"
+  },
+  "1c89e23eab7f0bcdf087d5346ec59f59": {
+    "path": "data/desk_23/0/tar.png"
+  },
+  "670372e14910590bd3860e0ff3ec923a": {
+    "path": "data/desk_23/0/ours.gif",
+    "label": "ours"
+  },
+  "4852b66a30fbc91df145d95de20cdf90": {
+    "path": "data/desk_23/0/tex.gif",
+    "label": "tex"
+  },
+  "4a4dccd3aaa8dc4b637a3f923ac936de": {
+    "path": "data/desk_23/0/painter.gif",
+    "label": "painter"
+  },
+  "8023a01db290c101944678d9c6ff4adf": {
+    "path": "data/desk_23/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "48fe8611fb43ad29ae343bedc7c372c7": {
+    "path": "data/chair_193/ref.png"
+  },
+  "af82cb8ddd7894191e20973eae3d5c8f": {
+    "path": "data/chair_193/0/tar.png"
+  },
+  "a458549075f08b0c68f615d7d214eece": {
+    "path": "data/chair_193/0/ours.gif",
+    "label": "ours"
+  },
+  "1691467121239691a014a2bd08eff4ed": {
+    "path": "data/chair_193/0/tex.gif",
+    "label": "tex"
+  },
+  "cd9372efcbd227a95668ef70ae892c1c": {
+    "path": "data/chair_193/0/painter.gif",
+    "label": "painter"
+  },
+  "84b1a2062356693c8ad96c75bcfbe91a": {
+    "path": "data/chair_193/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "f06203f29f4d68bca79d0623e1a1eed6": {
+    "path": "data/king_size_bed_80/ref.png"
+  },
+  "c0b8aa8b7960532374da53c867660934": {
+    "path": "data/king_size_bed_80/0/tar.png"
+  },
+  "3306fa511e359c5c4ed7298287659e59": {
+    "path": "data/king_size_bed_80/0/ours.gif",
+    "label": "ours"
+  },
+  "09461413d5f471cc0fea063bc5a85182": {
+    "path": "data/king_size_bed_80/0/tex.gif",
+    "label": "tex"
+  },
+  "9b15048662bf2af7ed0b14cb07aaf108": {
+    "path": "data/king_size_bed_80/0/painter.gif",
+    "label": "painter"
+  },
+  "513453a2551d4188a8b0df7dfea66cca": {
+    "path": "data/king_size_bed_80/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "7d9b32e8fb3c7595b4c222e400d2d73e": {
+    "path": "data/dining_table_234/ref.png"
+  },
+  "04432acf596f2159c88fd043f19234be": {
+    "path": "data/dining_table_234/0/tar.png"
+  },
+  "6d73d627ac494888820ca2799e35e4cd": {
+    "path": "data/dining_table_234/0/ours.gif",
+    "label": "ours"
+  },
+  "80e096dafe11d0527a83c5bd32ec41cd": {
+    "path": "data/dining_table_234/0/tex.gif",
+    "label": "tex"
+  },
+  "949ec55718346be6f981ffdcf2cc87bc": {
+    "path": "data/dining_table_234/0/painter.gif",
+    "label": "painter"
+  },
+  "1dbf4bed904233f85744238d9cec2528": {
+    "path": "data/dining_table_234/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "fe46b344692347814ca8e61bc20d95e8": {
+    "path": "data/chair_308/ref.png"
+  },
+  "ebb4d7ffd9c2c307f0dc0e56051a1245": {
+    "path": "data/chair_308/0/tar.png"
+  },
+  "68803abf47cc39ff46a7c57b3b430cf3": {
+    "path": "data/chair_308/0/ours.gif",
+    "label": "ours"
+  },
+  "74cb53822d5934b49dc364798df31ff4": {
+    "path": "data/chair_308/0/tex.gif",
+    "label": "tex"
+  },
+  "6ea0742303ae1108fd619a66874b3b27": {
+    "path": "data/chair_308/0/painter.gif",
+    "label": "painter"
+  },
+  "6a88d07fc11d0f0bf4c9508170a29bf4": {
+    "path": "data/chair_308/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "63d07c44d99fe2f499f64c0cb90e6cdd": {
+    "path": "data/chair_22/ref.png"
+  },
+  "fdea9d64c4f1eea5d50f00c8ae55e721": {
+    "path": "data/chair_22/0/tar.png"
+  },
+  "c00184dd1dec65ac817d8f806ea2e0ce": {
+    "path": "data/chair_22/0/ours.gif",
+    "label": "ours"
+  },
+  "01a5d415b3e461e85be570e6fff62db1": {
+    "path": "data/chair_22/0/tex.gif",
+    "label": "tex"
+  },
+  "b8132283c5cc0cad725818cbe6a24044": {
+    "path": "data/chair_22/0/painter.gif",
+    "label": "painter"
+  },
+  "c6d6f2638fc538594b0a2ad16e6b285f": {
+    "path": "data/chair_22/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "233e2404335acbb3578e0a455f59dead": {
+    "path": "data/nightstand_36/ref.png"
+  },
+  "ed64be32e1e5b732370d2cfb1ecfd752": {
+    "path": "data/nightstand_36/0/tar.png"
+  },
+  "46eacf913f01b7bde7f437ef72f611c2": {
+    "path": "data/nightstand_36/0/ours.gif",
+    "label": "ours"
+  },
+  "49c9a578546f1355b6a1c20c3ce952a4": {
+    "path": "data/nightstand_36/0/tex.gif",
+    "label": "tex"
+  },
+  "643adb5f950ace9ee526ef27c033b579": {
+    "path": "data/nightstand_36/0/painter.gif",
+    "label": "painter"
+  },
+  "dbd8ecfea290e261b71899d8f451ccc3": {
+    "path": "data/nightstand_36/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "37997911e6cabd1bad377dc8c88c4235": {
+    "path": "data/dining_table_64/ref.png"
+  },
+  "9686e952034d2ecfbfa428a385c6fd95": {
+    "path": "data/dining_table_64/0/tar.png"
+  },
+  "2a50fe2c9420e0995c987f1624262d15": {
+    "path": "data/dining_table_64/0/ours.gif",
+    "label": "ours"
+  },
+  "2428a333576ce3d6f79e1e32a9e6dbb6": {
+    "path": "data/dining_table_64/0/tex.gif",
+    "label": "tex"
+  },
+  "f2d42aaafc25e37f9ec9cc7a367113dc": {
+    "path": "data/dining_table_64/0/painter.gif",
+    "label": "painter"
+  },
+  "a51dc647d466faf5fda996e4db0ec6de": {
+    "path": "data/dining_table_64/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "0afc82ffd210562ebc0b2828bd68195c": {
+    "path": "data/dining_table_64/1/tar.png"
+  },
+  "92425e740bd6773433c039769006ddd3": {
+    "path": "data/dining_table_64/1/ours.gif",
+    "label": "ours"
+  },
+  "71257c2a606939324314b23e52c16c32": {
+    "path": "data/dining_table_64/1/tex.gif",
+    "label": "tex"
+  },
+  "582ae7ca61ca2a0763472746b0cdb086": {
+    "path": "data/dining_table_64/1/painter.gif",
+    "label": "painter"
+  },
+  "9b381623e393b79950bccc5dcb454a8b": {
+    "path": "data/dining_table_64/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "97143e69946b80abbc069b55a251ed5e": {
+    "path": "data/chair_94/ref.png"
+  },
+  "6e93ed807d3a772f99396128493e0e3d": {
+    "path": "data/chair_94/0/tar.png"
+  },
+  "60b87bd83ce39e3fab438a1f8a48f694": {
+    "path": "data/chair_94/0/ours.gif",
+    "label": "ours"
+  },
+  "d7da9e2551145686986de5d1ecf415b5": {
+    "path": "data/chair_94/0/tex.gif",
+    "label": "tex"
+  },
+  "8cb86d93219ac16ea21df3668fbee41e": {
+    "path": "data/chair_94/0/painter.gif",
+    "label": "painter"
+  },
+  "983c3db1046ce4b61ad76730416266f0": {
+    "path": "data/chair_94/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "5204d30189025efecab4b4c708de2d92": {
+    "path": "data/chair_94/1/tar.png"
+  },
+  "7963118955ae603cd3d40d92c5b307b1": {
+    "path": "data/chair_94/1/ours.gif",
+    "label": "ours"
+  },
+  "c4b3baad2fb8d2e926a3a9b9053da1be": {
+    "path": "data/chair_94/1/tex.gif",
+    "label": "tex"
+  },
+  "bf02cec8b49020c925359dc6944c2bbc": {
+    "path": "data/chair_94/1/painter.gif",
+    "label": "painter"
+  },
+  "bcc55ad5095a91ef4f99fcbccd563899": {
+    "path": "data/chair_94/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "9878888378fa1af5b38124511072956f": {
+    "path": "data/chair_94/2/tar.png"
+  },
+  "dee00e0a0e3aac28c190f481ff1a8d49": {
+    "path": "data/chair_94/2/ours.gif",
+    "label": "ours"
+  },
+  "c2d06cead4ef11471422e81bb343ce0d": {
+    "path": "data/chair_94/2/tex.gif",
+    "label": "tex"
+  },
+  "6484be16bedb44dd9bbab9eb20b2ef41": {
+    "path": "data/chair_94/2/painter.gif",
+    "label": "painter"
+  },
+  "77e1c61a58ed58d5202a8bcbc47bd11f": {
+    "path": "data/chair_94/2/paint3d.gif",
+    "label": "paint3d"
+  },
+  "a8d80d0f9244763bdc92e3059963a62a": {
+    "path": "data/chair_94/3/tar.png"
+  },
+  "fa439c761cbea8ce7e45707ca72ab495": {
+    "path": "data/chair_94/3/ours.gif",
+    "label": "ours"
+  },
+  "c79682c1c9ea44f17f2518f9c7cc1ed2": {
+    "path": "data/chair_94/3/tex.gif",
+    "label": "tex"
+  },
+  "5330778481a8344d28143ba26d88a816": {
+    "path": "data/chair_94/3/painter.gif",
+    "label": "painter"
+  },
+  "9791f4444d1708814eb02a6a9777f2f6": {
+    "path": "data/chair_94/3/paint3d.gif",
+    "label": "paint3d"
+  },
+  "ba9909c1d1532f6d83927bb2196ca8c7": {
+    "path": "data/armchair_39/ref.png"
+  },
+  "48fb788e5358cf86bbd9b514414b257c": {
+    "path": "data/armchair_39/0/tar.png"
+  },
+  "7db77afe0d4130f7a3d37a952b09bd7f": {
+    "path": "data/armchair_39/0/ours.gif",
+    "label": "ours"
+  },
+  "c36f0a13d39832fa20b24229f7c31bb1": {
+    "path": "data/armchair_39/0/tex.gif",
+    "label": "tex"
+  },
+  "ffc4900257a19364384d62b8af461ea5": {
+    "path": "data/armchair_39/0/painter.gif",
+    "label": "painter"
+  },
+  "f444332cd6a6d7bcd7598a683da82bb7": {
+    "path": "data/armchair_39/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "00bc00a4d4e8f56047e219f5f9471f95": {
+    "path": "data/armchair_39/1/tar.png"
+  },
+  "ae3d3b6c2a0749125ca4d4e22ccb8331": {
+    "path": "data/armchair_39/1/ours.gif",
+    "label": "ours"
+  },
+  "afd895f1abb93fe75c3c8457c17bbd9a": {
+    "path": "data/armchair_39/1/tex.gif",
+    "label": "tex"
+  },
+  "782d67d119a6979a1647e505fa3085e4": {
+    "path": "data/armchair_39/1/painter.gif",
+    "label": "painter"
+  },
+  "5d4fbf132b42d28d46e7f556b2b586cd": {
+    "path": "data/armchair_39/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "e1fdbac05cba36963af66c9056993f00": {
+    "path": "data/chair_43/ref.png"
+  },
+  "663f9b9c60642ddf4d091f76d3365da1": {
+    "path": "data/chair_43/0/tar.png"
+  },
+  "377dd94fb1d82574f7d2337764553a41": {
+    "path": "data/chair_43/0/ours.gif",
+    "label": "ours"
+  },
+  "f5088210d1f511996529cc8bf19a9186": {
+    "path": "data/chair_43/0/tex.gif",
+    "label": "tex"
+  },
+  "d764eb2d811b4b38000f3d0de7a9c16b": {
+    "path": "data/chair_43/0/painter.gif",
+    "label": "painter"
+  },
+  "f6324ebb611ce45208541d5e3061888c": {
+    "path": "data/chair_43/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "f672dfb34e9a03019537c349fea27b3e": {
+    "path": "data/chair_43/1/tar.png"
+  },
+  "38eeb0a5d3465ef1f7fb81a960ba4c8f": {
+    "path": "data/chair_43/1/ours.gif",
+    "label": "ours"
+  },
+  "0210606fd03020abdd2b5938688d8e99": {
+    "path": "data/chair_43/1/tex.gif",
+    "label": "tex"
+  },
+  "68a0f92e0d3347f98fe19571eb99c308": {
+    "path": "data/chair_43/1/painter.gif",
+    "label": "painter"
+  },
+  "e6117ab9ffe03983c96f8dc13ba3150d": {
+    "path": "data/chair_43/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "9f45c7d21846d4f4a33b28e8e449f0a7": {
+    "path": "data/chair_43/2/tar.png"
+  },
+  "2e9a158be883e7be14a9a7fddeabd73b": {
+    "path": "data/chair_43/2/ours.gif",
+    "label": "ours"
+  },
+  "0e073918aedc26d9faef677e1b88e2a7": {
+    "path": "data/chair_43/2/tex.gif",
+    "label": "tex"
+  },
+  "91452df469b5f5bfb2125ec53ee7b2ea": {
+    "path": "data/chair_43/2/painter.gif",
+    "label": "painter"
+  },
+  "ba180881cdfb89f8fe841eef11ab6d1c": {
+    "path": "data/chair_43/2/paint3d.gif",
+    "label": "paint3d"
+  },
+  "68137485cfcc33bb7cdad0bbead971ac": {
+    "path": "data/chair_43/3/tar.png"
+  },
+  "8115e0385f894b6fd6849e68e77d7631": {
+    "path": "data/chair_43/3/ours.gif",
+    "label": "ours"
+  },
+  "59cb77c249d31ecd8cc35ddae2e8493d": {
+    "path": "data/chair_43/3/tex.gif",
+    "label": "tex"
+  },
+  "dfef2ef80f1f6463e54b001d5897e8d7": {
+    "path": "data/chair_43/3/painter.gif",
+    "label": "painter"
+  },
+  "5145cc58eec67c3291ae9d683253f706": {
+    "path": "data/chair_43/3/paint3d.gif",
+    "label": "paint3d"
+  },
+  "704de84537f9f6581e2ef299c78c65fd": {
+    "path": "data/chair_43/4/tar.png"
+  },
+  "53ef030bfd43ce66de99c7aea948bc0c": {
+    "path": "data/chair_43/4/ours.gif",
+    "label": "ours"
+  },
+  "d7bba99c98a4a012fbad6c5d0267bf45": {
+    "path": "data/chair_43/4/tex.gif",
+    "label": "tex"
+  },
+  "64e379239f5445b704e84b26672f41ea": {
+    "path": "data/chair_43/4/painter.gif",
+    "label": "painter"
+  },
+  "3233ff88dac3f11afd81fd20dbaca5f9": {
+    "path": "data/chair_43/4/paint3d.gif",
+    "label": "paint3d"
+  },
+  "d908399499bdde19f28162bc5890967b": {
+    "path": "data/king_size_bed_221/ref.png"
+  },
+  "af986fca1fd701ce94f6bfbbd516f0ef": {
+    "path": "data/king_size_bed_221/0/tar.png"
+  },
+  "d4deab8f74616fa66354e87bf6443e85": {
+    "path": "data/king_size_bed_221/0/ours.gif",
+    "label": "ours"
+  },
+  "42f6617e84859dc9c90339441808fa5a": {
+    "path": "data/king_size_bed_221/0/tex.gif",
+    "label": "tex"
+  },
+  "f3ef2a05c3ac3301c9614a73efa46f94": {
+    "path": "data/king_size_bed_221/0/painter.gif",
+    "label": "painter"
+  },
+  "74052f97557ceb9ceab7eb7351bd66e7": {
+    "path": "data/king_size_bed_221/0/paint3d.gif",
+    "label": "paint3d"
+  },
+  "092d0cbed2ede864c89ccd144ed30d42": {
+    "path": "data/king_size_bed_221/1/tar.png"
+  },
+  "4ad3a920cb7509528392219fd6f343d3": {
+    "path": "data/king_size_bed_221/1/ours.gif",
+    "label": "ours"
+  },
+  "4cdfa09350b7c6e63122a8b2500c7a64": {
+    "path": "data/king_size_bed_221/1/tex.gif",
+    "label": "tex"
+  },
+  "0d40e1f97e119d8f337aff32bc29fe04": {
+    "path": "data/king_size_bed_221/1/painter.gif",
+    "label": "painter"
+  },
+  "4e236b335b8558a4d5fd875b2d6752c2": {
+    "path": "data/king_size_bed_221/1/paint3d.gif",
+    "label": "paint3d"
+  },
+  "9a3f056ea7b8e884faa1bf1c642f0649": {
+    "path": "data/king_size_bed_221/2/tar.png"
+  },
+  "a1e2bf3ed21ca50e087716429eae94d3": {
+    "path": "data/king_size_bed_221/2/ours.gif",
+    "label": "ours"
+  },
+  "5a0502c890020332c8ae5cbfa47df268": {
+    "path": "data/king_size_bed_221/2/tex.gif",
+    "label": "tex"
+  },
+  "76591956920153feb500d26ef75bb65f": {
+    "path": "data/king_size_bed_221/2/painter.gif",
+    "label": "painter"
+  },
+  "e78341923b7cd7b3ded8e8a076bcef5c": {
+    "path": "data/king_size_bed_221/2/paint3d.gif",
+    "label": "paint3d"
+  },
+  "151cc7c7cc230d2b5b8fd0351ad45be8": {
+    "path": "data/king_size_bed_221/3/tar.png"
+  },
+  "24509a17424f4291e1342111d37b21a8": {
+    "path": "data/king_size_bed_221/3/ours.gif",
+    "label": "ours"
+  },
+  "532463736998989e4202a9542ff960f3": {
+    "path": "data/king_size_bed_221/3/tex.gif",
+    "label": "tex"
+  },
+  "c1b19bdc1c5df2a8395e11cadefb0236": {
+    "path": "data/king_size_bed_221/3/painter.gif",
+    "label": "painter"
+  },
+  "ffd0fa71c39ec2984fb26d414c351a20": {
+    "path": "data/king_size_bed_221/3/paint3d.gif",
+    "label": "paint3d"
+  }
+}

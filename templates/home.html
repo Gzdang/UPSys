@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Preference Study</title>
+    <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/wel.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="h1-centered">3D Texture Transfer</h1>
+    </div>
+
+    <div class="hc-container">
+        <h3 class="centered" style="font-size:40px">Instructions</h3>
+        <p class="centered" style="font-size:26px">
+            Each question will have four different options. 
+            <br>Please select the result you think is best
+        </p>
+    </div>
+    <div class="vc-container">
+        <button id="startButton" class="start-button" onclick="window.location.href='/survey'">Start</button>
+    </div>
+
+</body>
+</html>
