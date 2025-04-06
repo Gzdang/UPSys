@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-height, initial-scale=1.0">
+    <title>Trans3D</title>
+    <style>
+        img {
+            width: 16vw;
+            max-width: 512px;
+            margin: 0px;
+            cursor: pointer;
+            border: 0px;
+            transition: border 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <div style="text-align: center;">
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>tar</th>
+                    <th>ref</th>
+                    <th>ours</th>
+                    <th>TEXTure</th>
+                    <th>TexPainter</th>
+                    <th>Paint3D</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="data\chair_43\ref.png" /></td>
+                    <td><img src="data\chair_43\0\tar.png" /></td>
+                    <td><img src="data\chair_43\0\ours.gif" /></td>
+                    <td><img src="data\chair_43\0\tex.gif" /></td>
+                    <td><img src="data\chair_43\0\painter.gif" /></td>
+                    <td><img src="data\chair_43\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_43\ref.png" /></td>
+                    <td><img src="data\chair_43\1\tar.png" /></td>
+                    <td><img src="data\chair_43\1\ours.gif" /></td>
+                    <td><img src="data\chair_43\1\tex.gif" /></td>
+                    <td><img src="data\chair_43\1\painter.gif" /></td>
+                    <td><img src="data\chair_43\1\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_43\ref.png" /></td>
+                    <td><img src="data\chair_43\2\tar.png" /></td>
+                    <td><img src="data\chair_43\2\ours.gif" /></td>
+                    <td><img src="data\chair_43\2\tex.gif" /></td>
+                    <td><img src="data\chair_43\2\painter.gif" /></td>
+                    <td><img src="data\chair_43\2\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_43\ref.png" /></td>
+                    <td><img src="data\chair_43\3\tar.png" /></td>
+                    <td><img src="data\chair_43\3\ours.gif" /></td>
+                    <td><img src="data\chair_43\3\tex.gif" /></td>
+                    <td><img src="data\chair_43\3\painter.gif" /></td>
+                    <td><img src="data\chair_43\3\paint3d.gif" /></td>
+                </tr>
+
+                <tr>
+                    <td><img src="data\chair_94\ref.png" /></td>
+                    <td><img src="data\chair_94\0\tar.png" /></td>
+                    <td><img src="data\chair_94\0\ours.gif" /></td>
+                    <td><img src="data\chair_94\0\tex.gif" /></td>
+                    <td><img src="data\chair_94\0\painter.gif" /></td>
+                    <td><img src="data\chair_94\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_94\ref.png" /></td>
+                    <td><img src="data\chair_94\1\tar.png" /></td>
+                    <td><img src="data\chair_94\1\ours.gif" /></td>
+                    <td><img src="data\chair_94\1\tex.gif" /></td>
+                    <td><img src="data\chair_94\1\painter.gif" /></td>
+                    <td><img src="data\chair_94\1\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_94\ref.png" /></td>
+                    <td><img src="data\chair_94\2\tar.png" /></td>
+                    <td><img src="data\chair_94\2\ours.gif" /></td>
+                    <td><img src="data\chair_94\2\tex.gif" /></td>
+                    <td><img src="data\chair_94\2\painter.gif" /></td>
+                    <td><img src="data\chair_94\2\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_94\ref.png" /></td>
+                    <td><img src="data\chair_94\3\tar.png" /></td>
+                    <td><img src="data\chair_94\3\ours.gif" /></td>
+                    <td><img src="data\chair_94\3\tex.gif" /></td>
+                    <td><img src="data\chair_94\3\painter.gif" /></td>
+                    <td><img src="data\chair_94\3\paint3d.gif" /></td>
+                </tr>
+
+                <tr>
+                    <td><img src="data\armchair_39\ref.png" /></td>
+                    <td><img src="data\armchair_39\0\tar.png" /></td>
+                    <td><img src="data\armchair_39\0\ours.gif" /></td>
+                    <td><img src="data\armchair_39\0\tex.gif" /></td>
+                    <td><img src="data\armchair_39\0\painter.gif" /></td>
+                    <td><img src="data\armchair_39\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\armchair_39\ref.png" /></td>
+                    <td><img src="data\armchair_39\1\tar.png" /></td>
+                    <td><img src="data\armchair_39\1\ours.gif" /></td>
+                    <td><img src="data\armchair_39\1\tex.gif" /></td>
+                    <td><img src="data\armchair_39\1\painter.gif" /></td>
+                    <td><img src="data\armchair_39\1\paint3d.gif" /></td>
+                </tr>
+
+                <tr>
+                    <td><img src="data\chair_169\ref.png" /></td>
+                    <td><img src="data\chair_169\0\tar.png" /></td>
+                    <td><img src="data\chair_169\0\ours.gif" /></td>
+                    <td><img src="data\chair_169\0\tex.gif" /></td>
+                    <td><img src="data\chair_169\0\painter.gif" /></td>
+                    <td><img src="data\chair_169\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\chair_169\ref.png" /></td>
+                    <td><img src="data\chair_169\1\tar.png" /></td>
+                    <td><img src="data\chair_169\1\ours.gif" /></td>
+                    <td><img src="data\chair_169\1\tex.gif" /></td>
+                    <td><img src="data\chair_169\1\painter.gif" /></td>
+                    <td><img src="data\chair_169\1\paint3d.gif" /></td>
+                </tr>
+
+
+                <tr>
+                    <td><img src="data\dining_table_64\ref.png" /></td>
+                    <td><img src="data\dining_table_64\0\tar.png" /></td>
+                    <td><img src="data\dining_table_64\0\ours.gif" /></td>
+                    <td><img src="data\dining_table_64\0\tex.gif" /></td>
+                    <td><img src="data\dining_table_64\0\painter.gif" /></td>
+                    <td><img src="data\dining_table_64\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\dining_table_64\ref.png" /></td>
+                    <td><img src="data\dining_table_64\1\tar.png" /></td>
+                    <td><img src="data\dining_table_64\1\ours.gif" /></td>
+                    <td><img src="data\dining_table_64\1\tex.gif" /></td>
+                    <td><img src="data\dining_table_64\1\painter.gif" /></td>
+                    <td><img src="data\dining_table_64\1\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\dining_table_71\ref.png" /></td>
+                    <td><img src="data\dining_table_71\0\tar.png" /></td>
+                    <td><img src="data\dining_table_71\0\ours.gif" /></td>
+                    <td><img src="data\dining_table_71\0\tex.gif" /></td>
+                    <td><img src="data\dining_table_71\0\painter.gif" /></td>
+                    <td><img src="data\dining_table_71\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\dining_table_71\ref.png" /></td>
+                    <td><img src="data\dining_table_71\2\tar.png" /></td>
+                    <td><img src="data\dining_table_71\2\ours.gif" /></td>
+                    <td><img src="data\dining_table_71\2\tex.gif" /></td>
+                    <td><img src="data\dining_table_71\2\painter.gif" /></td>
+                    <td><img src="data\dining_table_71\2\paint3d.gif" /></td>
+                </tr>
+
+                <tr>
+                    <td><img src="data\dining_table_234\ref.png" /></td>
+                    <td><img src="data\dining_table_234\0\tar.png" /></td>
+                    <td><img src="data\dining_table_234\0\ours.gif" /></td>
+                    <td><img src="data\dining_table_234\0\tex.gif" /></td>
+                    <td><img src="data\dining_table_234\0\painter.gif" /></td>
+                    <td><img src="data\dining_table_234\0\paint3d.gif" /></td>
+                </tr>
+
+                <tr>
+                    <td><img src="data\nightstand_237\ref.png" /></td>
+                    <td><img src="data\nightstand_237\0\tar.png" /></td>
+                    <td><img src="data\nightstand_237\0\ours.gif" /></td>
+                    <td><img src="data\nightstand_237\0\tex.gif" /></td>
+                    <td><img src="data\nightstand_237\0\painter.gif" /></td>
+                    <td><img src="data\nightstand_237\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\nightstand_430\ref.png" /></td>
+                    <td><img src="data\nightstand_430\0\tar.png" /></td>
+                    <td><img src="data\nightstand_430\0\ours.gif" /></td>
+                    <td><img src="data\nightstand_430\0\tex.gif" /></td>
+                    <td><img src="data\nightstand_430\0\painter.gif" /></td>
+                    <td><img src="data\nightstand_430\0\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\king_size_bed_221\ref.png" /></td>
+                    <td><img src="data\king_size_bed_221\2\tar.png" /></td>
+                    <td><img src="data\king_size_bed_221\2\ours.gif" /></td>
+                    <td><img src="data\king_size_bed_221\2\tex.gif" /></td>
+                    <td><img src="data\king_size_bed_221\2\painter.gif" /></td>
+                    <td><img src="data\king_size_bed_221\2\paint3d.gif" /></td>
+                </tr>
+                <tr>
+                    <td><img src="data\king_size_bed_80\ref.png" /></td>
+                    <td><img src="data\king_size_bed_80\0\tar.png" /></td>
+                    <td><img src="data\king_size_bed_80\0\ours.gif" /></td>
+                    <td><img src="data\king_size_bed_80\0\tex.gif" /></td>
+                    <td><img src="data\king_size_bed_80\0\painter.gif" /></td>
+                    <td><img src="data\king_size_bed_80\0\paint3d.gif" /></td>
+                </tr>
+                
+            </tbody>
+        </table>
+
+    </div>
+</body>
+
+</html>
